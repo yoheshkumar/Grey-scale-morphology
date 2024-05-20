@@ -67,7 +67,7 @@ cv2.imshow('Fracture Detection', result)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
-Output
+### Output
 ![image](https://github.com/yoheshkumar/Grey-scale-morphology/assets/119393568/388b1115-37d4-4e8e-9d28-e0d8c9427115)
 
 
