@@ -1,12 +1,12 @@
 # Grey-scale-morphology
-GRAY-SCALE
-Aim
+## GRAY-SCALE
+### Aim
 To develop a system for real-time fracture detection in X-ray images using grayscale morphology. By applying morphological operations such as erosion and dilation, the system aims to enhance fracture features, identify potential fractures accurately, and provide timely detection to aid medical diagnosis.
 
-Software Required:
+### oftware Required:
 Anaconda - Python 3.7
 
-Algorithm:
+### Algorithm:
 Step1:
 Input Image Acquisition: Obtain X-ray image containing potential fractures.
 
@@ -25,10 +25,10 @@ Contour Detection: Find fracture boundaries.
 Step6:
 Result Visualization: Highlight fractures on original image.
 
-PROGRAM:
+### PROGRAM:
 ```
-Developed By: PRAVINRAJJ G.K
-Register No: 212222240080
+Developed By: YOHESH KUMAR R.M
+Register No: 212222240118
 ```
 ```
 import cv2
