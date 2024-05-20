@@ -3,7 +3,7 @@
 ### Aim
 To develop a system for real-time fracture detection in X-ray images using grayscale morphology. By applying morphological operations such as erosion and dilation, the system aims to enhance fracture features, identify potential fractures accurately, and provide timely detection to aid medical diagnosis.
 
-### oftware Required:
+### software Required:
 Anaconda - Python 3.7
 
 ### Algorithm:
